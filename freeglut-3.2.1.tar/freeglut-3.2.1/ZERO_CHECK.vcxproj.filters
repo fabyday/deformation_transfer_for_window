@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\lab\2021\deformation_transfer_cmake\freeglut-3.2.1.tar\freeglut-3.2.1\CMakeFiles\dea3c204e209e11e10c63d5420362c89\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{52F5F7B3-75A0-3BF9-803A-3C93AD3CE53F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

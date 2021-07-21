@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\lab\2021\deformation_transfer_cmake\freeglut-3.2.1.tar\freeglut-3.2.1\progs\demos\shapes\shapes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\lab\2021\deformation_transfer_cmake\freeglut-3.2.1.tar\freeglut-3.2.1\progs\demos\shapes\glmatrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\lab\2021\deformation_transfer_cmake\freeglut-3.2.1.tar\freeglut-3.2.1\progs\demos\shapes\glmatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\lab\2021\deformation_transfer_cmake\freeglut-3.2.1.tar\freeglut-3.2.1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3A274F8E-9C4F-362B-AD33-EB9B7CF22D31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4005E407-43C3-3365-950C-22FE4EE1755C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
